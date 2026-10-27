@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Responsive Website Suite" verbose="1">
+    <listeners>
+        <listener class-name="com.qa.listeners.TestListener"/>
+    </listeners>
+    <test name="Responsive Viewport Tests">
+        <classes>
+            <class name="com.qa.tests.ResponsiveTest"/>
+        </classes>
+    </test>
+</suite>

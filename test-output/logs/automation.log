@@ -1,0 +1,395 @@
+2026-10-27 01:30:38 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:30:38 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:30:45 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:30:51 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:30:51 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:30:51 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:30:51 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:30:52 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:30:54 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:30:57 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:30:58 INFO  [main] TestLogger - Page title: HVAC Modesto, CA | Heating and Air | Loves Air
+2026-10-27 01:30:59 INFO  [main] TestLogger - 1920x1080 | viewportWidth=1355 | documentScrollWidth=1367 | horizontalOverflow=true | screenshot=test-output\screenshots\viewport-1920x1080-20261027-013059-253.png
+2026-10-27 01:30:59 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-checkResponsiveLayoutsAtCommonViewports-20261027-013059-541.png
+2026-10-27 01:30:59 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | java.lang.AssertionError: Unexpected page-level horizontal overflow at 1920x1080. Screenshot: test-output\screenshots\viewport-1920x1080-20261027-013059-253.png expected [false] but found [true]
+2026-10-27 01:30:59 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:31:00 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:32:31 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:32:31 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:32:34 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:32:40 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:32:41 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:32:41 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:32:41 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:32:42 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:32:43 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:32:47 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:32:47 INFO  [main] TestLogger - Page title: HVAC Modesto, CA | Heating and Air | Loves Air
+2026-10-27 01:32:48 INFO  [main] TestLogger - 1920x1080 | viewportWidth=1355 | documentScrollWidth=1367 | horizontalOverflow=true | screenshot=test-output\screenshots\viewport-1920x1080-20261027-013248-722.png
+2026-10-27 01:32:49 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-checkResponsiveLayoutsAtCommonViewports-20261027-013248-964.png
+2026-10-27 01:32:49 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | java.lang.AssertionError: Unexpected page-level horizontal overflow at 1920x1080. Screenshot: test-output\screenshots\viewport-1920x1080-20261027-013248-722.png expected [false] but found [true]
+2026-10-27 01:32:49 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:32:50 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:35:20 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:35:20 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:35:24 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:35:29 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:35:30 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:35:30 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:35:30 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:35:30 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:35:32 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:35:35 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:35:36 INFO  [main] TestLogger - Page title: HVAC Modesto, CA | Heating and Air | Loves Air
+2026-10-27 01:35:37 INFO  [main] TestLogger - 1920x1080 | viewportWidth=1355 | documentScrollWidth=1367 | horizontalOverflow=true | screenshot=test-output\screenshots\viewport-1920x1080-20261027-013537-123.png
+2026-10-27 01:35:37 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-checkResponsiveLayoutsAtCommonViewports-20261027-013537-408.png
+2026-10-27 01:35:37 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | java.lang.AssertionError: Unexpected page-level horizontal overflow at 1920x1080. Screenshot: test-output\screenshots\viewport-1920x1080-20261027-013537-123.png expected [false] but found [true]
+2026-10-27 01:35:37 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:35:38 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:37:47 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:37:47 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:37:52 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:37:54 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:37:54 WARN  [main] TestLogger - Could not check locator By.cssSelector: input[type='email'], input[name*='email' i], input[autocomplete='username']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0b8db2e52dab1e18daf6397f3b7801d, findElements {using=css selector, value=input[type='email'], input[name*='email' i], input[autocomplete='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64784}, goog:processID: 11136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64784/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0b8db2e52dab1e18daf6397f3b7801d
+2026-10-27 01:37:54 WARN  [main] TestLogger - Could not check locator By.cssSelector: input[type='password']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0b8db2e52dab1e18daf6397f3b7801d, findElements {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64784}, goog:processID: 11136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64784/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0b8db2e52dab1e18daf6397f3b7801d
+2026-10-27 01:37:54 WARN  [main] TestLogger - Could not check locator By.cssSelector: button[type='submit'], input[type='submit']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0b8db2e52dab1e18daf6397f3b7801d, findElements {using=css selector, value=button[type='submit'], input[type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64784}, goog:processID: 11136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64784/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0b8db2e52dab1e18daf6397f3b7801d
+2026-10-27 01:37:54 INFO  [main] TestLogger - Login controls detected | email=false | password=false | submit=false
+2026-10-27 01:37:54 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0b8db2e52dab1e18daf6397f3b7801d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64784}, goog:processID: 11136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64784/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0b8db2e52dab1e18daf6397f3b7801d
+2026-10-27 01:37:54 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0b8db2e52dab1e18daf6397f3b7801d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64784}, goog:processID: 11136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64784/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0b8db2e52dab1e18daf6397f3b7801d
+2026-10-27 01:37:54 ERROR [main] TestLogger - TEST FAIL: checkLoginFormElementsWhenPresent | java.lang.AssertionError: No common login form controls were detected. Review the page and update selectors. expected [true] but found [false]
+2026-10-27 01:37:54 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:37:54 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:37:56 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:37:57 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:37:57 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [642b6f8592585ed8386a1705ae576e66, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64831}, goog:processID: 12588, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64831/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 642b6f8592585ed8386a1705ae576e66
+2026-10-27 01:37:57 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [642b6f8592585ed8386a1705ae576e66, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64831}, goog:processID: 12588, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64831/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 642b6f8592585ed8386a1705ae576e66
+2026-10-27 01:37:57 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [642b6f8592585ed8386a1705ae576e66, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64831}, goog:processID: 12588, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64831/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 642b6f8592585ed8386a1705ae576e66
+2026-10-27 01:37:57 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:37:58 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:39:06 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:39:06 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:39:11 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:39:12 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:39:13 WARN  [main] TestLogger - Could not check locator By.cssSelector: input[type='email'], input[name*='email' i], input[autocomplete='username']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ace2816888fbf26abda62eb9081175b1, findElements {using=css selector, value=input[type='email'], input[name*='email' i], input[autocomplete='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65166}, goog:processID: 15564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ace2816888fbf26abda62eb9081175b1
+2026-10-27 01:39:13 WARN  [main] TestLogger - Could not check locator By.cssSelector: input[type='password']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ace2816888fbf26abda62eb9081175b1, findElements {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65166}, goog:processID: 15564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ace2816888fbf26abda62eb9081175b1
+2026-10-27 01:39:13 WARN  [main] TestLogger - Could not check locator By.cssSelector: button[type='submit'], input[type='submit']: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ace2816888fbf26abda62eb9081175b1, findElements {using=css selector, value=button[type='submit'], input[type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65166}, goog:processID: 15564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ace2816888fbf26abda62eb9081175b1
+2026-10-27 01:39:13 INFO  [main] TestLogger - Login controls detected | email=false | password=false | submit=false
+2026-10-27 01:39:13 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ace2816888fbf26abda62eb9081175b1, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65166}, goog:processID: 15564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ace2816888fbf26abda62eb9081175b1
+2026-10-27 01:39:13 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ace2816888fbf26abda62eb9081175b1, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65166}, goog:processID: 15564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ace2816888fbf26abda62eb9081175b1
+2026-10-27 01:39:13 ERROR [main] TestLogger - TEST FAIL: checkLoginFormElementsWhenPresent | java.lang.AssertionError: No common login form controls were detected. Review the page and update selectors. expected [true] but found [false]
+2026-10-27 01:39:13 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:39:13 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:39:14 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:39:15 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:39:15 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0345d6acba5fdeec2d36c6f0333da407, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 17020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0345d6acba5fdeec2d36c6f0333da407
+2026-10-27 01:39:15 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0345d6acba5fdeec2d36c6f0333da407, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 17020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0345d6acba5fdeec2d36c6f0333da407
+2026-10-27 01:39:15 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0345d6acba5fdeec2d36c6f0333da407, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 17020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0345d6acba5fdeec2d36c6f0333da407
+2026-10-27 01:39:15 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:39:16 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:40:46 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:40:46 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:40:52 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:40:57 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:40:58 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:40:58 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:40:58 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:40:58 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:41:00 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:41:03 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:41:04 INFO  [main] TestLogger - Page title: HVAC Modesto, CA | Heating and Air | Loves Air
+2026-10-27 01:41:05 INFO  [main] TestLogger - 1920x1080 | viewportWidth=1355 | documentScrollWidth=1367 | horizontalOverflow=true | screenshot=test-output\screenshots\viewport-1920x1080-20261027-014105-352.png
+2026-10-27 01:41:05 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-checkResponsiveLayoutsAtCommonViewports-20261027-014105-648.png
+2026-10-27 01:41:05 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | java.lang.AssertionError: Unexpected page-level horizontal overflow at 1920x1080. Screenshot: test-output\screenshots\viewport-1920x1080-20261027-014105-352.png expected [false] but found [true]
+2026-10-27 01:41:05 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:41:06 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:41:55 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:41:55 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:42:00 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:42:04 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:42:05 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:42:05 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:42:05 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:42:06 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:42:07 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:42:09 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:42:09 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e68dcfb9298966c835657ecb48a616ce, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49710}, goog:processID: 5556, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49710/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e68dcfb9298966c835657ecb48a616ce
+2026-10-27 01:42:09 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e68dcfb9298966c835657ecb48a616ce, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49710}, goog:processID: 5556, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49710/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e68dcfb9298966c835657ecb48a616ce
+2026-10-27 01:42:09 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.47)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e68dcfb9298966c835657ecb48a616ce, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.47, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49710}, goog:processID: 5556, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49710/devtoo..., se:cdpVersion: 156.0.8078.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e68dcfb9298966c835657ecb48a616ce
+2026-10-27 01:42:09 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:42:10 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:43:37 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 01:43:37 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:43:41 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:43:46 INFO  [main] TestLogger - TEST START: checkLoginFormElementsWhenPresent
+2026-10-27 01:43:47 INFO  [main] TestLogger - Login controls detected | email=true | password=false | submit=true
+2026-10-27 01:43:47 INFO  [main] TestLogger - TEST PASS: checkLoginFormElementsWhenPresent
+2026-10-27 01:43:47 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:43:48 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:43:49 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:43:52 INFO  [main] TestLogger - TEST START: checkResponsiveLayoutsAtCommonViewports
+2026-10-27 01:43:53 INFO  [main] TestLogger - Page title: HVAC Modesto, CA | Heating and Air | Loves Air
+2026-10-27 01:43:54 INFO  [main] TestLogger - 1920x1080 | viewportWidth=1355 | documentScrollWidth=1367 | horizontalOverflow=true | screenshot=test-output\screenshots\viewport-1920x1080-20261027-014354-610.png
+2026-10-27 01:43:55 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-checkResponsiveLayoutsAtCommonViewports-20261027-014354-871.png
+2026-10-27 01:43:55 ERROR [main] TestLogger - TEST FAIL: checkResponsiveLayoutsAtCommonViewports | java.lang.AssertionError: Unexpected page-level horizontal overflow at 1920x1080. Screenshot: test-output\screenshots\viewport-1920x1080-20261027-014354-610.png expected [false] but found [true]
+2026-10-27 01:43:55 INFO  [main] TestLogger - Closing browser session
+2026-10-27 01:43:56 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 01:53:14 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 01:53:19 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 01:56:47 INFO  [main] TestLogger - Closing browser session
+2026-10-27 02:06:14 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 02:06:21 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 02:10:30 INFO  [main] TestLogger - Closing browser session
+2026-10-27 02:10:58 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 02:11:02 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 02:11:06 INFO  [main] TestLogger - Closing browser session
+2026-10-27 02:22:04 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 02:22:13 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 02:48:38 INFO  [main] TestLogger - Closing browser session
+2026-10-27 03:13:38 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 03:15:46 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 03:21:35 INFO  [main] TestLogger - Closing browser session
+2026-10-27 03:29:35 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 03:29:40 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 03:34:26 INFO  [main] TestLogger - Closing browser session
+2026-10-27 03:43:42 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 03:43:46 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 03:44:32 INFO  [main] TestLogger - Closing browser session
+2026-10-27 20:40:06 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 20:40:06 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 20:40:11 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 20:40:26 INFO  [main] TestLogger - TEST START: testWebsiteResponsiveness
+2026-10-27 20:53:21 ERROR [main] TestLogger - Failure screenshot: test-output\screenshots\FAIL-testWebsiteResponsiveness-20261027-205321-081.png
+2026-10-27 20:53:21 ERROR [main] TestLogger - TEST FAIL: testWebsiteResponsiveness | java.lang.AssertionError: Responsive issues or test errors were found. Check the Excel report at: C:\Users\node-2025\Downloads\ResponsiveAutomationProject_LoveSair\ResponsiveAutomationProject\target\responsive-report.xlsx expected [0] but found [20]
+2026-10-27 20:53:21 INFO  [main] TestLogger - Closing browser session
+2026-10-27 20:53:22 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 21:29:50 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 21:29:50 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 21:29:55 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 21:30:04 INFO  [main] TestLogger - TEST START: testWebsiteResponsiveness
+2026-10-27 21:30:13 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [939733683f477e607f3be8f0031c186c, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52573}, goog:processID: 5152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52573/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 939733683f477e607f3be8f0031c186c
+2026-10-27 21:30:13 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [939733683f477e607f3be8f0031c186c, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52573}, goog:processID: 5152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52573/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 939733683f477e607f3be8f0031c186c
+2026-10-27 21:30:13 ERROR [main] TestLogger - TEST FAIL: testWebsiteResponsiveness | java.lang.AssertionError: Responsive issues or test errors were found. Check the Excel report at: C:\Users\node-2025\Downloads\ResponsiveAutomationProject_LoveSair\ResponsiveAutomationProject\target\responsive-report.xlsx expected [0] but found [20]
+2026-10-27 21:30:13 INFO  [main] TestLogger - Closing browser session
+2026-10-27 21:30:13 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 22:10:26 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 22:10:26 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 22:10:31 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 22:10:31 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 22:12:37 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 22:12:42 INFO  [main] TestLogger - TEST START: testWebsiteResponsiveness
+2026-10-27 22:12:42 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 22:12:43 INFO  [main] TestLogger - TEST START: testWebsiteResponsiveness
+2026-10-27 22:12:46 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [95f7b34ea0d126e2df358de23732e9d5, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53343}, goog:processID: 11672, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53343/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 95f7b34ea0d126e2df358de23732e9d5
+2026-10-27 22:12:46 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [95f7b34ea0d126e2df358de23732e9d5, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53343}, goog:processID: 11672, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53343/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 95f7b34ea0d126e2df358de23732e9d5
+2026-10-27 22:12:46 ERROR [main] TestLogger - TEST FAIL: testWebsiteResponsiveness | java.lang.AssertionError: Responsive issues or test errors were found. Check the Excel report at: C:\Users\node-2025\Downloads\ResponsiveAutomationProject_LoveSair\ResponsiveAutomationProject\target\responsive-report.xlsx expected [0] but found [10]
+2026-10-27 22:12:46 INFO  [main] TestLogger - Closing browser session
+2026-10-27 22:12:46 ERROR [main] TestLogger - Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b03b0680fda34518b010ff321a50daa8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53365}, goog:processID: 3552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53365/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b03b0680fda34518b010ff321a50daa8
+2026-10-27 22:12:46 ERROR [main] TestLogger - Failure screenshot: Screenshot capture failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=156.0.8078.48)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b03b0680fda34518b010ff321a50daa8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.48, chrome: {chromedriverVersion: 156.0.8078.47 (1d17a2e2ee14..., userDataDir: C:\Users\NODE-2~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53365}, goog:processID: 3552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53365/devtoo..., se:cdpVersion: 156.0.8078.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b03b0680fda34518b010ff321a50daa8
+2026-10-27 22:12:46 ERROR [main] TestLogger - TEST FAIL: testWebsiteResponsiveness | java.lang.AssertionError: Responsive issues or test errors were found. Check the Excel report at: C:\Users\node-2025\Downloads\ResponsiveAutomationProject_LoveSair\ResponsiveAutomationProject\target\responsive-report.xlsx expected [0] but found [10]
+2026-10-27 22:12:46 INFO  [main] TestLogger - Closing browser session
+2026-10-27 22:12:48 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 22:12:48 INFO  [main] TestLogger - Test suite finished: Responsive Viewport Tests
+2026-10-27 22:16:07 INFO  [main] TestLogger - Test suite started: Responsive Viewport Tests
+2026-10-27 22:16:07 INFO  [main] TestLogger - ========== Starting browser session ==========
+2026-10-27 22:16:10 INFO  [main] TestLogger - Opening URL: https://lovesair.com/
+2026-10-27 22:16:15 INFO  [main] TestLogger - TEST START: testWebsiteResponsiveness
